@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyAndroidApp</string>
+    <string name="hide">Hide</string>
+    <string name="please_enter_your_personal_info">請輸入你的個人資訊</string>
 </resources>
